@@ -2,8 +2,7 @@
 
 Crisp is a web application designed to simulate a technical interview process for full-stack developer roles. It provides a timed, multi-question interview experience for candidates and a dashboard for interviewers to review submitted answers.
 
-![Crisp Application Screenshot](https://i.imgur.com/your-screenshot-url.png) 
-*Suggestion: Take a nice screenshot of your app, upload it to a site like [Imgur](https://imgur.com/upload), and paste the link here.*
+![Crisp Application Screenshot](<img width="1917" height="811" alt="image" src="https://github.com/user-attachments/assets/f2ad68d7-5747-4549-ba88-26f2a324c254" />)
 
 ---
 ## Key Features
